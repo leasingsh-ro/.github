@@ -18,4 +18,4 @@ Construit de [Ionuț-Cristian Florescu](https://github.com/icflorescu), partener
 
 ---
 
-<sub>[LeasingSH.ro](https://www.leasingsh.ro/): new and used cars in leasing or with cash payment, in Romania. [swapp.ro](https://swapp.ro): invoicing and single-entry accounting for Romanian sole traders, by the same technical partner.</sub>
+<sub>[LeasingSH.ro](https://www.leasingsh.ro/): new and used cars in leasing or with cash payment, in Romania.<br>[Swapp.ro](https://swapp.ro): invoicing and single-entry accounting for Romanian sole traders, by the same technical partner.</sub>
